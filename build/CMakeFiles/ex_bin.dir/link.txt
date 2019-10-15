@@ -1,1 +1,0 @@
-/usr/bin/c++   -fPIC  -rdynamic CMakeFiles/ex_bin.dir/cubic.cpp.o CMakeFiles/ex_bin.dir/hermite.cpp.o CMakeFiles/ex_bin.dir/lagrange.cpp.o CMakeFiles/ex_bin.dir/linear.cpp.o CMakeFiles/ex_bin.dir/main.cpp.o  -o ex_bin /usr/lib/x86_64-linux-gnu/libGL.so glad/libglad.a glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 
