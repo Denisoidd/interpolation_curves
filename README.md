@@ -1,6 +1,8 @@
 
 # Linear, cubic, hermite and lagrange interpolation
 
+In this project I've implemented different types of interpolations such as linear, cubic (spline), hermite and lagrange. These types of curves are used in many areas of computer graphics.
+
 ### Basic linear interpolation
 ![linear](https://user-images.githubusercontent.com/30556894/66855783-2f4fef00-ef84-11e9-86f6-583bddbdcbfb.png)
 
