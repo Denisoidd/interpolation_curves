@@ -1,6 +1,8 @@
 
 # Linear, cubic, hermite and lagrange interpolation
 
+### C++, libiGL, Eigen
+
 In this project I've implemented different types of interpolations such as linear, cubic (spline), hermite and lagrange. These types of curves are used in many areas of computer graphics.
 
 ### Basic linear interpolation
